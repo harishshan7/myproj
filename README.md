@@ -1,2 +1,1 @@
-# myproj
-testing project
+proj
